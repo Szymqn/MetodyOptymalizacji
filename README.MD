@@ -12,3 +12,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Optymalizacji*
 ### Funkcja dwudzielna
 
 [Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab01)
+
+## 2. Laboratorium
+### Metoda Fibonacciego
+
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab02)
