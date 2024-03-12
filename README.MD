@@ -17,3 +17,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Optymalizacji*
 ### Metoda Fibonacciego
 
 [Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab02)
+
+## 3. Laboratorium
+### Metoda bisekcji, stycznych (Newtona), siecznych
+
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab03)
