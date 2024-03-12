@@ -25,3 +25,12 @@ def plot_one_variable_with_range(A, B, x_1, x_2, f):
     plt.show()
 
     print(f"f(x_1) = {x_1}, f(x_2) = {x_2}")
+
+
+def plot_one_variable_with_range_one_points(A, B, f, point):
+    x = np.linspace(A, B, 1000)
+    y = f(x)
+    plt.plot(x, y)
+    plt.scatter(point, f(point), color='green', label='point')
+    plt.legend()
+    plt.show()
