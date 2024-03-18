@@ -22,3 +22,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Optymalizacji*
 ### Metoda bisekcji, stycznych (Newtona), siecznych
 
 [Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab03)
+
+## 4. Laboratorium
+### Metoda złotego podziału
+
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab04)
