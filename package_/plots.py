@@ -56,7 +56,6 @@ def plot_two_variables_with_start_point(x, y, f):
     fig.colorbar(surf, shrink=0.5, aspect=5)
 
     ax.scatter(x, y, f(x, y), color='yellow', label='point')
-    print(x, y, f(x, y))
 
     plt.legend()
     plt.show()
