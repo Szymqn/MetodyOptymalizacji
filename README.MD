@@ -32,3 +32,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Optymalizacji*
 ### Metoda Newtona
 
 [Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab05)
+
+## 6. Laboratorium
+### Metoda najszybszego (największego) spadku
+
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab06)
