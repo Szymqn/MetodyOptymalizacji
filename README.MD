@@ -28,12 +28,17 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Optymalizacji*
 
 [Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab04)
 
-## 5. Laboratorium
+## 6. Laboratorium
 ### Metoda Newtona
 
-[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab05)
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab65)
 
-## 6. Laboratorium
+## 7. Laboratorium
 ### Metoda najszybszego (największego) spadku
 
-[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab06)
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab07)
+
+## 8. Laboratorium
+### Metoda Gaussa-Seidla
+
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab08)
