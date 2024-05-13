@@ -42,3 +42,8 @@ To repozytorium zawiera rozwiązania zadań z przedmiotu **Metody Optymalizacji*
 ### Metoda Gaussa-Seidla
 
 [Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab08)
+
+## 9. Laboratorium
+### Metoda Hooke’a - Jeevesa
+
+[Przejdź do laboratorium](https://github.com/Szymqn/MetodyOptymalizacji/tree/master/lab09)
